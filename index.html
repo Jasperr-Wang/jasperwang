@@ -199,24 +199,29 @@
     </footer>
 
     <script>
-        // 核心：极简双语切换（100%稳定）
+    // 等待页面完全加载（保证能调用 scripts.js 里的函数）
+    document.addEventListener('DOMContentLoaded', function() {
+        // 初始化语言（读取本地存储）
         let currentLang = localStorage.getItem('lang') || 'zh';
-
-        // 初始化页面
-        function initLang() {
-            document.getElementById('langBtn').textContent = currentLang === 'zh' ? 'EN' : '中';
-            loadMarkdownFiles(currentLang);
-        }
-
-        // 按钮点击切换
-        document.getElementById('langBtn').onclick = function () {
+        const langBtn = document.getElementById('langBtn');
+        
+        // 初始化按钮文字
+        langBtn.textContent = currentLang === 'zh' ? 'EN' : '中';
+        // 首次加载对应语言
+        loadMarkdownFiles(currentLang);
+    
+        // 绑定按钮点击事件（核心修复：确保绑定成功）
+        langBtn.onclick = function() {
+            // 切换语言
             currentLang = currentLang === 'zh' ? 'en' : 'zh';
+            // 保存到本地存储
             localStorage.setItem('lang', currentLang);
-            initLang();
+            // 更新按钮文字
+            langBtn.textContent = currentLang === 'zh' ? 'EN' : '中';
+            // 调用 scripts.js 中的切换函数
+            loadMarkdownFiles(currentLang);
         };
-
-        // 页面加载完成后初始化
-        window.addEventListener('DOMContentLoaded', initLang);
+    });
     </script>
 </body>
 
