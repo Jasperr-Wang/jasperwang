@@ -17,9 +17,9 @@
   • 项目成果：参展第四届东亚古籍数字人文国际论坛“典藏新生·AI创意”分论坛，斩获《最佳古意新诠奖》，实现古画文化的跨时空数字化传播<br>
 
 <iframe 
-  src="/static/files/guanshouguanhuatu.pdf#toolbar=0" 
-  width="80%" 
-  height="600px"
+  src="static/files/guanshouguanhuatu.pdf#toolbar=0" 
+  width="100%" 
+  height="400px"
   style="border:none; pointer-events:none;"
 ></iframe>
 
