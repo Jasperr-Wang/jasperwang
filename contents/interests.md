@@ -14,11 +14,3 @@
     &emsp;&emsp;•通过 AI 对话深度挖掘内心、梳理个人经历与关键节点，实现结构化复盘与理性决策，自我成长。<br>
 •**己历**・个人数字人生构建计划<br>
     &emsp;&emsp;•将个人记忆数字化归档与智能梳理，构建专属数字孪生与人生轨迹知识库，实现生命体验的结构化留存与回溯。<br>
-
-##### 个人简历
-<iframe 
-  src="../static/assets/files/reseme.pdf#toolbar=0" 
-  width="100%" 
-  height="500px"
-  style="border:none; border-radius:8px;">
-</iframe>
