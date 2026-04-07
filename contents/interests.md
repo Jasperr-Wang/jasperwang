@@ -17,7 +17,7 @@
 
 ##### 个人简历
 <iframe 
-  src="../static/asssets/files/reseme.pdf#toolbar=0" 
+  src="../static/assets/files/reseme.pdf#toolbar=0" 
   width="100%" 
   height="500px"
   style="border:none; border-radius:8px;">
