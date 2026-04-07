@@ -109,4 +109,9 @@ section .main-body{
     }
 }
 
-
+/* 全局图片禁止下载、拖拽、右键 */
+img {
+  pointer-events: none !important;
+  user-select: none !important;
+  -webkit-user-drag: none !important;
+}

@@ -6,17 +6,22 @@
   • 项目成果：研究成果获2025年中国情报学年会暨情报学与情报工作发展论坛录用并受邀主题汇报（第三作者），相关成果同时被《情报工程》期刊录用<br>
 
 • **南京大学人文社科高级研究院数字人文创研中心科研工作** | 2025年2月至今 陈静课题组<br>
-  • 合作单位：南京博物院、吴文化博物馆、湖南大学<br>
   • 核心课题：文化遗产数据知识图谱智能化应用、文博数据开放度评价体系构建与实证分析<br>
   • 课题核心：针对文物数据打造LLM驱动的个性化导览知识图谱与动态筛选机制；联合搭建含4个一级指标、23个二级指标的文博数据开放度评价体系，完成全国38家博物馆实证分析<br>
   • 个人工作：全程参与指标体系搭建，梳理研究与政策文件为指标筛选提供支撑；完成19家博物馆数据收集、整理与实证测评；深度参与评价报告撰写与打磨，保障内容专业严谨<br>
   • 项目成果：打造完成可落地的个性化文物导览知识图谱；搭建的评价体系为博物馆数据开放提供标准化依据，两项课题成果均投递中国数字人文年会<br>
 
 • **《花面交相映——<盥手观花图>中的女性世界》** | 数字人文交互设计研究<br>
-  • 核心技术：AI视频生成、数字交互设计、网页开发、图文互证研究方法<br>
   • 项目核心：以宋代《盥手观花图》为核心，打破古画静态欣赏边界，通过AI活化、全维度知识解构、趣味交互设计，构建多维互动诠释场域，挖掘画作中的宋代女性世界与文化意蕴<br>
   • 个人工作：参与核心创意设计，拆解图像元素并梳理文化内涵；参与AI视频制作与数字交互设计环节；配合完成网页开发与功能落地，保障交互体验与文化表达融合<br>
   • 项目成果：参展第四届东亚古籍数字人文国际论坛“典藏新生·AI创意”分论坛，斩获《最佳古意新诠奖》，实现古画文化的跨时空数字化传播<br>
+
+<iframe 
+  src="/static/files/guanshouguanhuatu.pdf#toolbar=0" 
+  width="80%" 
+  height="600px"
+  style="border:none; pointer-events:none;"
+></iframe>
 
 • **一带一路·日本大数据产业发展调研** | 南京大学本科生全球科考项目 2025年 为期10天<br>
   • 调研范围：日本东京、筑波多地，走访12家高校与企业机构<br>
@@ -32,20 +37,17 @@
 
 ### Academic Research Experience
 • ***Identification and Evolution Analysis of Key Core Technologies in the Field of Artificial Intelligence*** | National College Student Innovation Program<br>
-  • Core Technologies: Patent network analysis, text mining, machine learning, CPC code co-occurrence analysis, gravity model, node-driven fast GNN inference method, LDA topic model derivative methods<br>
   • Project Core: Based on 750,000 strong AI patent datasets, build a dual network of patent co-classification and keyword co-occurrence to realize fine-grained identification of key technologies and technology clusters in the AI industry, and systematic analysis of technology evolution paths, providing data support and method reference for technological development in the field<br>
   • Personal Work: Systematically sort out the research status of the field to complete literature research and review writing; Use visualization tools to intuitively present the patent co-classification network and explore core nodes and correlation rules; Support the demonstration and output of conclusions on key technology identification<br>
   • Project Achievements: The research results were accepted by the 2025 China Information Science Annual Conference and invited to give a keynote report (the third author), the relevant results were simultaneously accepted by the *Journal of Intelligence Engineering*<br>
 
 • ***Research Work at Digital Humanities Research and Creation Center*** | Institute for Advanced Studies in Humanities and Social Sciences, Nanjing University, Feb 2025-Present, Chen Jing's Research Group<br>
-  • Cooperating Units: Nanjing Museum, Wu Culture Museum, Hunan University<br>
   • Core Research Topics: Intelligent Application of Cultural Heritage Data Knowledge Graph, Construction and Empirical Analysis of Museum Data Openness Evaluation System<br>
   • Project Core: Build an LLM-driven personalized tour guide knowledge graph and dynamic screening mechanism for cultural relic data; Jointly build a museum data openness evaluation system with 4 first-level and 23 second-level indicators, and complete empirical analysis of 38 museums nationwide<br>
   • Personal Work: Participate in the construction of the indicator system in the whole process, sort out research and policy documents to support indicator screening; Complete data collection, sorting and empirical evaluation of 19 museums; Deeply participate in the writing and polishing of the evaluation report to ensure professional and rigorous content<br>
   • Project Achievements: Build an implementable personalized cultural relic tour guide knowledge graph; The built evaluation system provides a standardized basis for museum data opening, and the results of the two topics are submitted to the China Digital Humanities Annual Conference<br>
 
 • ***Blossoms and Faces Reflect Each Other - The Female World in Washing Hands and Viewing Flowers*** | Digital Humanities Interactive Design Research<br>
-  • Core Technologies: AI video generation, digital interactive design, web development, image-text mutual verification research method<br>
   • Project Core: Taking the Song Dynasty painting *Washing Hands and Viewing Flowers* as the core, break the boundary of static appreciation of ancient paintings, and build a multi-dimensional interactive interpretation field through AI activation, all-dimensional knowledge deconstruction and interesting interactive design, exploring the Song Dynasty female world and cultural implication in the painting<br>
   • Personal Work: Participate in core creative design, disassemble image elements and sort out cultural connotation; Participate in AI video production and digital interactive design; Cooperate with web development and function implementation to ensure the integration of interactive experience and cultural expression<br>
   • Project Achievements: Exhibited at the "Collection Rejuvenation · AI Creativity" sub-forum of the 4th International Forum on Digital Humanities of East Asian Ancient Books, won *The Best Ancient Meaning Innovation Award*, and realized the cross-temporal digital communication of ancient painting culture<br>
@@ -57,7 +59,6 @@
   • Project Achievements: Produce a high-quality 50,000-word research report on the development differences of the big data industry between China and Japan, accurately extract the core differences in the field of educational digitalization between China and Japan, and put forward targeted reference suggestions for the development of relevant domestic industries<br>
 
 • ***Research on the Creation of Classical Chinese Poetry by Chinese New Literati in the "First Decade" from the Perspective of Digital Humanities*** | Sep 2024-Sep 2025<br>
-  • Core Technologies: Text mining, SikuBERT word segmentation, DTM dynamic topic model, ATM author topic model, text semantic density calculation<br>
   • Project Core: Taking 22,000 words of classical Chinese poetry by 15 new literati from 1917 to 1927 as the corpus, use digital humanities methods to analyze the evolution of creative themes and differences in authors' theme preferences, explore the word usage rules and semantic density characteristics of classical Chinese poetry under the influence of the new poetry trend, and excavate the change of old and new ideas behind the creation<br>
   • Personal Work: Collect, sort and clean the corpus combined with large models to ensure corpus accuracy; Design a complete research framework of "data collection - model analysis - connotation interpretation"; Complete word segmentation with SikuBERT, run models for analysis and visualize the analysis results through line charts and heat maps<br>
   • Project Achievements: Complete a multi-dimensional analysis of the creation of classical Chinese poetry by new literati, clearly present the evolution trend of creative themes and differences in author preferences, and provide method and case references for modern literary research from the perspective of digital humanities<br>
@@ -76,7 +77,12 @@
   • 围绕校园自然、运动、学习等场景策划系列主题推文，完成声音素材筛选、音频处理与推文视觉排版；<br>
   • 联动南京大学官方公众号进行内容传播，推动项目校园内外曝光；<br>
   • 独立设计9份5·25大学生心理健康节主题展板及立牌，落地校园线下宣传场景。<br>
-  项目成果：系列推文总浏览量超15000，项目获第四届中国大学生校园媒体大赛数据内容与数字创意类三等奖；设计物料在校内长期展出，成为校园心理健康核心宣传载体。<br>
+  项目成果：系列推文总浏览量超15000，项目获第四届中国大学生校园媒体大赛数据内容与数字创意类三等奖；设计物料在校内展出。<br>
+
+- [南大声音地图︱ Vol.1 即此富苍翠，自然引翔栖](sslocal://flow/file_open?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLEYXkbncVKwBzMb6vET96w&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)  
+- [南大声音地图｜Vol.2 校运会特辑—生命在于运动](sslocal://flow/file_open?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQUqXHTrFvr4AZQ0OS1S5fQ&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)  
+- [南大声音地图 | Vol.3 学习的千百种](sslocal://flow/file_open?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvFiJvWAgjKYmCS_R5UDnbg&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)  
+- [嘘！这条推送，重要的是声音](sslocal://flow/file_open?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSKOSHON-xOLSHCdlUhXOjA&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)  
 
 • **山谷日寄｜小程序策划与全渠道宣发运营**<br>
   核心工作：<br>
